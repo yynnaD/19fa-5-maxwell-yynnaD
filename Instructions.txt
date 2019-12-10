@@ -1,0 +1,18 @@
+Danny Gletner
+Advanced Programming
+Maxwell's Demon
+Instructions
+
+How to play:
+You will need all 3 files in the repository to play:
+	- MaxDemon.java
+	- GamePanel.java
+	- Particle.java
+	
+To start the game run MaxDemon which will pull up the game GUI. 
+The buttons perform the task defined on the button.
+Press anywhere on the game screen to open the door,
+and release to close it. 
+Use the 'x' at the top to exit.
+
+Enjoy!
