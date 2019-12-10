@@ -16,3 +16,8 @@ and release to close it.
 Use the 'x' at the top to exit.
 
 Enjoy!
+
+
+*Other Notes*
+There is a comment in the move() method of Particle.java that
+I forgot to remove during debugging. It can be ignored.
