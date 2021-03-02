@@ -26,7 +26,7 @@ public class Particle {
 		if(x >= 470) {vx *= -1; x = 470;}
 		if(y >= 390) {vy *= -1; y = 390;}
 		
-		//issues with balls getting stuck
+		
 		if(open) {
 			if((side && x >= 240 && vx > 0) || (!side && x <= 250 && vx < 0)){
 				if(y <= 225 && y >= 165) {
